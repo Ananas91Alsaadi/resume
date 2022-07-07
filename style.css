@@ -322,6 +322,12 @@ line-height: 18vw;
   z-index: 5;
 }
 
+.projects {
+	width: 80vw;
+	display: block;
+	margin: 5vw auto 15vw auto;
+}
+
 @media (min-width:415px) {
 }
 

@@ -717,10 +717,11 @@ line-height: 18vw;
 	}
 	.middle_border {
 					width: 10vw;
-				height: 349vw;
+				/*height: 349vw;*/
 position: absolute;
 		left: 45.5vw;
 		top: -0.5vw;
+		height: 102%;
 		border-top: 1vw solid #325A73;
 		border-left: 1vw solid #325A73;
 	border-top-left-radius:2vw;
@@ -1156,7 +1157,7 @@ line-height: 9.5vw;
 	}
 	.middle_border {
 					width: 120px;
-				height: 4188px;
+				height: 102%;
 		left: 546px;
 		top: -6px;
 		border-top: 12px solid #325A73;
